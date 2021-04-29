@@ -1,5 +1,5 @@
 # PCA-based-face-recognition Using Matlab #
-##Introduction to the project
+## Introduction to the project
 This is a very simple yet very effective face recognition system using PCA which is based on eigen values and eigen vectors. PCA basically means in a given image of size m*n, we extract only those components which are sufficient enough to represent the whole image. It is similar to the Physics concept wherein we represent a whole bode with a single point which is its center of mass. So by extracting these components, we reduce the image size remarkable and processing done after this becomes very fast. 
 
 ## Training Phase
